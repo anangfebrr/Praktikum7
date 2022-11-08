@@ -1,0 +1,48 @@
+#top{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.top-satu{
+    background-color: #ffff00;
+    width: 10%;
+    height: 60px;
+}
+
+.top-dua{
+    background-color: #ffa500;
+    width: 88%;
+    height: 60px;
+}
+
+#mid{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+}
+
+.mid-satu{
+    background-color: #00ff88;
+    width: 10%;
+    height: 450px;
+}
+
+.mid-dua{
+    background-color: #f0d8e1;
+    width: 77%;
+    height: 450px;
+}
+
+.mid-tiga{
+    background-color: #00e1ff;
+    width: 10%;
+    height: 450px;
+}
+
+#bot{
+    background-color: #00f;
+    width: 98.5%;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 8px;
+}
